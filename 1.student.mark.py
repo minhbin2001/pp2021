@@ -1,3 +1,4 @@
+#add Student information
 def countstd():
 count = int(input("Number of Student"))
 return count 
@@ -77,3 +78,12 @@ for S in Students:
    if E==C['id']
     if E==M['Cid']:
 	 print(f"the student name is {C['name'] , the mark is {M['mark']}")
+
+
+
+
+
+
+ 
+ 
+ 
